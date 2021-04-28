@@ -1,2 +1,2 @@
 # JavaScriptSnippets_DSA
-JavaScript Algorithms and Data Structures Masterclass
+JavaScript Algorithms and Data Structures Personal Note
